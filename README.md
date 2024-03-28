@@ -31,9 +31,14 @@ I am interested in Back-End development and DevOps development. Currently, I ad 
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-[![lsh981127](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh981127)](https://solved.ac/{handle})
+![lsh981127](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh981127)
 
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh981127&show_icons=true&theme=radical&include_all_commits=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh981127&show_icons=true&theme=radical)
+
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh981127&show=prs_merged&show_icons=true&theme=radical&include_all_commits=true) -->
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lsh981127)](https://git.io/streak-stats)
