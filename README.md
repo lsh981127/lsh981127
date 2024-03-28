@@ -1,8 +1,17 @@
-### Hi there 👋 <hr/>
-
+### Hi there 👋
+<!--
 <a href="https://github.com/lsh981127" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub"/></a>
+
 <a href="https://www.linkedin.com/in/%EC%8A%B9%ED%9B%88-%EC%9D%B4-929a2a216/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn"/></a>
+
+<a href="https://www.linkedin.com/in/%EC%8A%B9%ED%9B%88-%EC%9D%B4-929a2a216/" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+-->
+[![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/lsh981127)](https://github.com/lsh981127)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%8A%B9%ED%9B%88-%EC%9D%B4-929a2a216/)](https://www.linkedin.com/in/%EC%8A%B9%ED%9B%88-%EC%9D%B4-929a2a216/)
+[![Tech Blog](http://img.shields.io/badge/TechBlog-000000?style=for-the-badge&logo=tistory&link=https://honesttree.tistory.com/)](https://honesttree.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lsh981127@gmail.com)](mailto:lsh981127@gmail.com)
+
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
