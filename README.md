@@ -10,7 +10,7 @@
 "Just Keep Doing and Growing"
 
 I am a software engineer from South Korea, KR.   
-I am interested in Back-End development and DevOps development. Planning to study about Machine learning and Deep learning.
+I am interested in Back-End development and DevOps development. Currently, I ad studying Spring framework.
 
 
 ## 💻 Experience 💻   
@@ -31,7 +31,9 @@ I am interested in Back-End development and DevOps development. Planning to stud
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh981127&show_icons=true&theme=radical&include_all_commits=true)]
+[![lsh981127](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh981127)](https://solved.ac/{handle})
+
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh981127&show_icons=true&theme=radical&include_all_commits=true)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lsh981127)](https://git.io/streak-stats)
