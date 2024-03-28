@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="[버튼을 눌렀을 때 이동할 링크](https://github.com/lsh981127)" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub"/></a>
+<a href="https://github.com/lsh981127" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub"/></a>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
