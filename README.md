@@ -34,9 +34,5 @@ I am interested in Back-End development and DevOps development.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh981127&show_icons=true&include_all_commits=true)
 
 
-Pinned
-
-gihub.com/%lsh981127%
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh981127&layout=compact)
 
