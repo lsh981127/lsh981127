@@ -31,16 +31,17 @@ I am interested in Back-End development and DevOps development.
 
 ![lsh981127](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh981127)
 
-
+<dic style="display: flex; justify-content: center;">
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lsh981127&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsh981127&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsh981127&hide_border=true&layout=compact" align="right" style="width: 100%" />
 
 </td></tr></table>  
+</dic>
 
 <br/>
 
