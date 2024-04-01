@@ -1,19 +1,26 @@
 ### Hi I'm Sean Lee 👋
-
 [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/lsh981127)](https://github.com/lsh981127)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%8A%B9%ED%9B%88-%EC%9D%B4-929a2a216/)](https://www.linkedin.com/in/%EC%8A%B9%ED%9B%88-%EC%9D%B4-929a2a216/)
 [![Tech Blog](http://img.shields.io/badge/TechBlog-000000?style=for-the-badge&logo=tistory&link=https://honesttree.tistory.com/)](https://honesttree.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lsh981127@gmail.com)](mailto:lsh981127@gmail.com)
+<br>
 
+<a href="https://solved.ac/lsh981127"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh981127&theme=dark"/></a>
 
 _"Just Keep Doing and Growing"_
 
 I am a software engineer from South Korea, KR.   
 I am interested in Back-End development and DevOps development.
 
+<br/>
+
+<br><br>
+
 
 ## 💻 Experience 💻   
-- **ZTACOM** - Software Enginner ( *Jan 2023* ~ *Mar 2024* )   
+- **ZTACOM** - Software Enginner ( *Jan 2023* ~ *Mar 2024* )
+
+<br/>
 
 ## 📌 Tech Stack 📌 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,10 +36,16 @@ I am interested in Back-End development and DevOps development.
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 
-![lsh981127](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh981127)
+<br/>
 
 ## Github Stats  
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsh981127&layout=donut&show_icons=true&count_private=true" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=lsh981127&show_icons=true&count_private=true" width=56% /></div>
+
+
+<!--
 <dic style="display: flex; justify-content: center;">
 <table><tr><td valign="top" width="50%">
 
@@ -45,7 +58,7 @@ I am interested in Back-End development and DevOps development.
 </td></tr></table>  
 </dic>
 
-<br/>
+<-->
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh981127&show_icons=true&include_all_commits=true)
