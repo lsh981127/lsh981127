@@ -16,7 +16,7 @@ I am interested in Back-End development and DevOps development.
 
 <br><br>
 
-## Education
+## 🎓 Education 🎓
 - **Dongguk University**
    - Information Communication Engineering, Barchelor of Science (*Mar 2017* ~ *Aug 2023* )
 - **University of Wisconsin(River Falls)**
