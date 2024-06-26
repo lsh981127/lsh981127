@@ -23,7 +23,7 @@ I am interested in Back-End development and DevOps development.
   - Computer Science (*Jan 2022* ~ *Dec 2022* )
 
 ## 💻 Experience 💻   
-- **LG U+ Ureca** - Backend Developer (*Jun 2024 ~ )
+- **LG U+ Ureca, 1st** - Backend (*Jun 2024 ~ )
 - **ZTACOM** - Software Enginner ( *Jan 2023* ~ *Mar 2024* )
 
 <br/>
