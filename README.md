@@ -16,18 +16,20 @@ I am interested in Back-End development and DevOps development.
 
 <br><br>
 
+## Education
+- **Dongguk University**
+   - Information Communication Engineering, Barchelor of Science (*Mar 2017* ~ *Aug 2023* )
+- **University of Wisconsin(River Falls)**
+  - Computer Science (*Jan 2022* ~ *Dec 2022* )
 
 ## 💻 Experience 💻   
 - **ZTACOM** - Software Enginner ( *Jan 2023* ~ *Mar 2024* )
-
+- **LG U+ Ureca** - Backend Developer (*Jun 2024 ~ )
 <br/>
 
 ## 📌 Tech Stack 📌 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
